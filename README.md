@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning web dev, dsa and dbms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on aashishjha095@gmail.com
-
-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <!---
 Aashish-18/Aashish-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
