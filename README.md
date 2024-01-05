@@ -22,11 +22,7 @@
 ![HTML5](https://user-images.githubusercontent.com/79704324/229188830-f442a259-1ee1-45cb-962c-54b8d102d1cb.png)
 ![JavaScript](https://user-images.githubusercontent.com/79704324/229189011-9af71164-dc50-4f40-8283-0b64b522ac00.png)
 ![CSS3](https://user-images.githubusercontent.com/79704324/229188522-631f8e71-aff0-47d4-8177-658a2e62190e.png)
-![Sass](https://user-images.githubusercontent.com/79704324/229192211-c12e66ce-6764-4338-9322-8c50b8eec223.png)
-![TypeScript](https://user-images.githubusercontent.com/79704324/229195304-802e9b51-1480-4b2f-b589-edf8b4b21b58.svg)
 ![Bootstrap](https://user-images.githubusercontent.com/79704324/229193933-ccfb6478-fbba-4942-b58e-f014558695bd.png)
-![Angular](https://user-images.githubusercontent.com/79704324/229196549-5f177c0e-0af3-4845-9303-f2fa22bf8ab0.png)
-![Flutter](https://user-images.githubusercontent.com/79704324/229192489-ace13880-4127-494f-a6c9-419f9ec9bf7c.png)
 ![Python](https://user-images.githubusercontent.com/79704324/229194337-4aabb393-ed4b-41ea-8d22-df3e74af38d9.png)
 ![Git](https://user-images.githubusercontent.com/79704324/229192648-b9caade7-c1db-4ea2-b4db-5df39f3a8cef.png)
 ![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
@@ -53,7 +49,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=tokyo-night" /></a>
+   <a href="https://github.com/aashish-18"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aashish-18&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=tokyo-night" /></a>
   <br />
 </details>
 
