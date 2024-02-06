@@ -1,31 +1,37 @@
-<p align="center">
-  <a href="https://github.com/Aashish-18"> <img loading="lazy" alt="Welcome" src="assets/welcome.svg"/> </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aashish-18"> <img loading="lazy" alt="Samir" src="assets/samir.svg"/> <img loading="lazy" alt="Paul" src="assets/paul.svg"/> </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/me-aashish-kr-/"><img loading="lazy" alt="LinkedIn" src="https://scdn.netlify.app/linkedin-samirpaul.svg"></a> &nbsp; 
-  <a href="https://twitter.com/me_Aashish__"><img loading="lazy" alt="Twitter" src="https://scdn.netlify.app/twitter-samirpaulb.svg"></a> &nbsp; 
-  <a href="https://github.com/Aashish-18"><img loading="lazy" src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=white&labelColor=blue" alt="Visitors"></a> 
-  <a href="https://github.com/Aashish-18"><img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1" width="1" height="1" /></a>  
-</p>
-
-
 <b>*About Me*:</b> \
   🎓 &nbsp;I'm currently studying Computer Science and enginnering from LPU,jalandhar.\
   💡 &nbsp;Some technologies I enjoy working with include Java, MySQL, Git, HTML, CSS, Javascript, Linux.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/me_aashish/), [CodeChef](https://www.codechef.com/users/aashish018), [HackerRank](https://www.hackerrank.com/me_aashish) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aashish25lr).\
   ✉️ &nbsp;Get in touch with me via email at ```aashishjha095[@]gmail[dot]com```. 
 
  <b> </b>
-
-<b>*GitHub Stats*:</b> \
-  <a href="https://github.com/Aashish-18">
-  <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
-  </a>
   
 <a href="https://github.com/Aashish-18"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-18&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-18" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashish-18" alt="aashish-18" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/me_aashish__" target="blank"><img src="https://img.shields.io/twitter/follow/me_aashish__?logo=twitter&style=for-the-badge" alt="me_aashish__" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/me_aashish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me_aashish__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/me-aashish-kr-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-aashish-kr-/" height="30" width="40" /></a>
+<a href="https://instagram.com/me_aashish__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_aashish__/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aashish018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aashish018" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/me_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="me_aashish" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/me_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="me_aashish" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/me_aashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me_aashish/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@me_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@me_aashish" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/me_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/me_aashish" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-18&show_icons=true&locale=en&layout=compact" alt="aashish-18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-18&show_icons=true&locale=en" alt="aashish-18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-18&" alt="aashish-18" /></p>
