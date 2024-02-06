@@ -11,14 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-18&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashish-18" alt="aashish-18" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/me_aashish__" target="blank"><img src="https://img.shields.io/twitter/follow/me_aashish__?logo=twitter&style=for-the-badge" alt="me_aashish__" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/me_aashish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me_aashish__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/me-aashish-kr-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-aashish-kr-/" height="30" width="40" /></a>
-<a href="https://instagram.com/me_aashish__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_aashish__/" height="30" width="40" /></a>
+<a href="https://twitter.com/me_aashish__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="me_aashish__" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/me-aashish-kr-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="me-aashish-kr-/" height="40" width="50" /></a>
+<a href="https://instagram.com/me_aashish__/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="me_aashish__/" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/aashish018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aashish018" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/me_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="me_aashish" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/me_aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="me_aashish" height="30" width="40" /></a>
@@ -35,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-18&show_icons=true&locale=en" alt="aashish-18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-18&" alt="aashish-18" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashish-18" alt="aashish-18" /></a> </p>
+
