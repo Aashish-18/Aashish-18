@@ -1,7 +1,7 @@
 <b>*About Me*:</b> \
   🎓 &nbsp;I'm currently studying Computer Science and enginnering from LPU.\
   👨‍💻 &nbsp;Some technologies I enjoy working with include Java, MySQL, Git, HTML, CSS, Javascript, Linux,React js,Node js.\
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
+  🧠 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
   ✉️ &nbsp;Get in touch with me via email at ```aashishjha095[@]gmail[dot]com```. 
 <a href="https://github.com/Aashish-18"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
