@@ -1,6 +1,6 @@
 <b>*About Me*:</b> \
-  🎓 &nbsp;I'm currently studying Computer Science and enginnering from LPU,jalandhar.\
-  💡 &nbsp;Some technologies I enjoy working with include Java, MySQL, Git, HTML, CSS, Javascript, Linux.\
+  🎓 &nbsp;I'm currently studying Computer Science and enginnering from LPU.\
+  💡 &nbsp;Some technologies I enjoy working with include Java, MySQL, Git, HTML, CSS, Javascript, Linux,React js,Node js.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
   ✉️ &nbsp;Get in touch with me via email at ```aashishjha095[@]gmail[dot]com```. 
 
